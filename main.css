@@ -1,7 +1,9 @@
 body{
-    background:#230f27;
+    /*background:#230f27;
     background:-webkit-linear-gradient(to right, #6d2872, #836191, #971a95) ;
-    background: linear-gradient(to right, #755586, #582663, #28002c);
+    background: linear-gradient(to right, #755586, #582663, #28002c);*/
+    background: url(https://e1.pxfuel.com/desktop-wallpaper/314/699/desktop-wallpaper-3d-space-backgrounds-3d-space.jpg);
+    background-size:cover;
 }
 
 #join-btn{
