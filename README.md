@@ -1,2 +1,2 @@
 # VC-HH
-Deployed VC part in agora: https://vc-hh.vercel.app/
+Deployed VC part on agora: https://vc-hh.vercel.app/
